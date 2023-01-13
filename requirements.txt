@@ -1,5 +1,3 @@
-hellbot
-userbot
 nekos
 spotdl
 yt-search

@@ -1,3 +1,8 @@
+hellbot
+userbot
+nekos
+spotdl
+yt-search
 aiohttp
 cairosvg
 DateTime
